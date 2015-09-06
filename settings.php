@@ -4,3 +4,4 @@
 //connect to the Movie database
     mysql_select_db("Movies", $con);
 ?>
+hi
